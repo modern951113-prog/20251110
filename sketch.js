@@ -196,7 +196,7 @@ function draw() {
 	textAlign(CENTER, CENTER); // 設定文字對齊方式為中心
 	textFont('Coral Pixels'); // 設定字型
 	textSize(120); // 設定文字大小
-	text('淡江大學', width / 2, textY); // 使用動畫更新後的 Y 座標
+	text('414730407 陳冠豪', width / 2, textY); // 使用動畫更新後的 Y 座標
 	pop(); // 恢復原本的繪圖設定
 }
 function tiling(x, y, w) {
